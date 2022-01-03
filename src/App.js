@@ -10,5 +10,4 @@ function demo(fn) {
   }
 }
 
-demo(() => {});
 //© 2022 GitHub, Inc.
